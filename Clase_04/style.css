@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,900');
+
+
+body {
+
+	padding-top: 3.5rem;
+	background: #333;
+	font-family: Roboto, serif;
+	font-weight: 400;
+
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: 700;
+	padding-top: 10px;
+
+}
+
+img{
+	border:5px solid white;
+}
+
+div[class*="col"] {
+padding:2rem 2rem;
+background-color: white;
+}
